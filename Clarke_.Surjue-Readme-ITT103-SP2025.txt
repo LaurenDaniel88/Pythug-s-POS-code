@@ -1,0 +1,58 @@
+READ ME 
+
+Authors: Lauren Clarke and Daniel Surjue 
+Date Created: 21/03/2025
+Course: ITT103 
+GitHub Public URL to Code: 
+
+
+Overview of the code 
+
+View items on sale 
+Add items to cart 
+Calculate a bill total with the 10% tax rate 
+Print Receipt upon successful payment 
+Receive change is possible 
+
+This code can be experimented with to educate the user on python loops conditions and functions. 
+
+Features of the python code 
+
+Display items 
+Users can add to their shopping cart said items 
+Automatic calculation of the items including 10% sales tax 
+User payment check to make sure the money is sufficient 
+Printed receipt 
+Receive change where applicable
+Blocks invalid item selection 
+
+How it works 
+
+The user chooses an item
+Code processes the item 
+Calculates how much for the item including 10% tax 
+Distributes the change where needed 
+Prints receipt 
+Blocks user from invalid item selection
+Blocks user from buying an item with insufficient funds  
+
+How it runs 
+
+Download the repository.
+Open the terminal or command prompt.
+Navigate to the folder that contains the code 
+Run the program
+ 
+
+Improvements 
+
+Being able to add more than one item to the cart 
+Storing the transaction data 
+Being able to make the user request multiple of one item 
+
+These improvements that could be made are also the limitations of the code 
+
+Not being able to add more than one item to the cart 
+Can not store the transaction data 
+Not being able to make the user request multiple of one item 
+
